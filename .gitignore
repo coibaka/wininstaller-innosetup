@@ -6,3 +6,15 @@
 /fred_deps.iss
 /fred_version.iss
 *_bin.exe
+<<<<<<< Updated upstream
+=======
+local.properties
+install_node/unbescape-1.1.6.RELEASE.jar
+install_node/slf4j-api-1.7.25.jar
+.idea/google-java-format.xml
+.idea/gradle.xml
+>>>>>>> Stashed changes
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
